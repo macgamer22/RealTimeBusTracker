@@ -10,6 +10,7 @@ This program will show you the real-time Boston bus line 1 and its route stops a
 Using the google map and a registered API key, we are able to track the bus and its route stops.
 
 ====================
+
 How to RUN Instruction: 
 1. Signup for an account in Google cloud project.
 2. Create an API key.
@@ -17,12 +18,14 @@ How to RUN Instruction:
 4. Run index.html, preferrably chrome broswer.
 
 ====================
+
 Future Improvements:
 1. Add more bus line.
 2. Schedule timer.
 3. Automatic day and night mode depending on time of the day.
 
 ====================
+
 LICENSE:
 
 Copyright (c) 2024 Julius Macala
